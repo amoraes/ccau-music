@@ -5,3 +5,8 @@ body {
 .translation {
     font-style: italic;
 }
+
+
+table {
+    font-size:14px !important;
+}
