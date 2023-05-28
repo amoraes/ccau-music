@@ -10,3 +10,7 @@ body {
 table {
     font-size:12px !important;
 }
+
+.note {
+    font-size: 9px;
+}
